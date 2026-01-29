@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "The future of institutional-grade retail settlement.",
+    "create_button": "Create Secure Vault",
+    "import_button": "Import Existing Wallet"
+  },
+  "header": {
+    "home": "Portfolio",
+    "defi": "DeFi",
+    "transactions": "History",
+    "settings": "Settings",
+    "profile": "Profile",
+    "walletConnect": "WalletConnect",
+    "scan": "Scan to Pay",
+    "notifications": "Alarms & Info",
+    "developer": "Developer Settings"
+  },
+  "nav": {
+    "home": "Home",
+    "defi": "DeFi",
+    "history": "History",
+    "settings": "Settings"
+  },
+  "home": {
+    "total_liquidity": "Total Liquidity",
+    "status": "Mainnet Active",
+    "holdings": "Holdings"
+  },
+  "defi": {
+    "swap": "Swap",
+    "bridge": "Bridge",
+    "you_pay": "You Pay",
+    "you_receive": "You Receive",
+    "get_quote": "Get Quote",
+    "execute_swap": "Execute Swap",
+    "insufficient_balance": "Insufficient {{token}} balance.",
+    "enter_amount": "Please enter an amount.",
+    "error_fetching_quote": "Error fetching quote."
+  },
+  "bridge": {
+    "from": "From",
+    "to": "To",
+    "balance": "Balance: {{balance}}",
+    "bridge_assets": "Bridge Assets",
+    "rate": "Rate",
+    "fee": "Fee",
+    "burned": "Burned",
+    "security": "Security",
+    "light_client": "ZK Light Client",
+    "processing_title": "Bridge in Progress...",
+    "processing_body": "Confirming transaction across chains.",
+    "success_title": "Bridge Successful!",
+    "success_body": "Assets have been transferred to your wallet.",
+    "error_amount": "Please enter a valid amount.",
+    "error_insufficient_balance": "Insufficient {{token}} balance.",
+    "error_insufficient_ops": "Insufficient OPS balance for bridge fee."
+  },
+  "transactions": {
+    "no_transactions_title": "No Transactions Yet",
+    "no_transactions_body": "Your transaction history will appear here.",
+    "sent": "Sent",
+    "received": "Received",
+    "swaps": "Swaps",
+    "transfers": "Transfers"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Appearance",
+    "language": "Language",
+    "general": "General",
+    "profile": "Profile",
+    "security": "Security",
+    "notifications": "Notifications",
+    "connections": "Connections",
+    "walletConnect": "WalletConnect",
+    "developer": "Developer",
+    "developer_settings": "Developer Settings",
+    "logout": "Log Out"
+  },
+  "developer": {
+    "title": "Developer Settings",
+    "network_config": "Network Configuration",
+    "solana_actions": "Solana Actions",
+    "airdrop": "Airdrop Devnet SOL",
+    "reset_balances": "Reset Local Balances",
+    "quick_links": "Quick Links",
+    "solana_explorer": "Solana Explorer",
+    "sui_explorer": "Sui Explorer",
+    "docs": "Ghost Protocol Docs",
+    "theme_inspector": "Theme Inspector",
+    "active_theme": "Active Theme"
+  },
+  "notifications": {
+    "title": "Alarms & Info",
+    "empty_title": "All Caught Up",
+    "empty_body": "You have no new notifications."
+  },
+  "scan": {
+    "title": "Scan to Pay",
+    "prompt": "Position QR code inside the frame"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Scan the QR code from a dApp to connect your wallet.",
+    "uri_placeholder": "Enter connection URI",
+    "connect_button": "Connect Manually"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit_title": "Edit Profile",
+    "display_name": "Display Name",
+    "email": "Email Address",
+    "account_info": "Account Info",
+    "wallet_id": "Wallet ID",
+    "total_balance": "Total Balance",
+    "save_button": "Save Changes"
+  }
+}

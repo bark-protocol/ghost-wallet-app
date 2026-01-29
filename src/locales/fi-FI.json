@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "Institutionaalisen tason vähittäismaksujen tulevaisuus.",
+    "create_button": "Luo suojattu holvi",
+    "import_button": "Tuo olemassa oleva lompakko"
+  },
+  "header": {
+    "home": "Salkku",
+    "defi": "DeFi",
+    "transactions": "Historia",
+    "settings": "Asetukset",
+    "profile": "Profiili",
+    "walletConnect": "WalletConnect",
+    "scan": "Skannaa ja maksa",
+    "notifications": "Hälytykset ja tiedot",
+    "developer": "Kehittäjäasetukset"
+  },
+  "nav": {
+    "home": "Koti",
+    "defi": "DeFi",
+    "history": "Historia",
+    "settings": "Asetukset"
+  },
+  "home": {
+    "total_liquidity": "Kokonaislikviditeetti",
+    "status": "Mainnet aktiivinen",
+    "holdings": "Omistukset"
+  },
+  "defi": {
+    "swap": "Vaihda",
+    "bridge": "Silta",
+    "you_pay": "Maksat",
+    "you_receive": "Saat",
+    "get_quote": "Hae hinta-arvio",
+    "execute_swap": "Toteuta vaihto",
+    "insufficient_balance": "Ei riittävästi saldoa: {{token}}.",
+    "enter_amount": "Syötä summa.",
+    "error_fetching_quote": "Virhe hinta-arvion haussa."
+  },
+  "bridge": {
+    "from": "Mistä",
+    "to": "Mihin",
+    "balance": "Saldo: {{balance}}",
+    "bridge_assets": "Siirrä varat",
+    "rate": "Kurssi",
+    "fee": "Kulu",
+    "burned": "Poltettu",
+    "security": "Turvallisuus",
+    "light_client": "ZK Kevytasiakas",
+    "processing_title": "Siirto käynnissä...",
+    "processing_body": "Vahvistetaan tapahtumaa ketjujen välillä.",
+    "success_title": "Siirto onnistui!",
+    "success_body": "Varat on siirretty lompakkoosi.",
+    "error_amount": "Syötä kelvollinen summa.",
+    "error_insufficient_balance": "Ei riittävästi saldoa: {{token}}.",
+    "error_insufficient_ops": "Ei riittävästi OPS-saldoa siltamaksuun."
+  },
+  "transactions": {
+    "no_transactions_title": "Ei vielä tapahtumia",
+    "no_transactions_body": "Tapahtumahistoriasi näkyy täällä.",
+    "sent": "Lähetetty",
+    "received": "Vastaanotettu",
+    "swaps": "Vaihtotapahtumat",
+    "transfers": "Siirrot"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Ulkoasu",
+    "language": "Kieli",
+    "general": "Yleinen",
+    "profile": "Profiili",
+    "security": "Turvallisuus",
+    "notifications": "Ilmoitukset",
+    "connections": "Yhteydet",
+    "walletConnect": "WalletConnect",
+    "developer": "Kehittäjä",
+    "developer_settings": "Kehittäjäasetukset",
+    "logout": "Kirjaudu ulos"
+  },
+  "developer": {
+    "title": "Kehittäjäasetukset",
+    "network_config": "Verkkoasetukset",
+    "solana_actions": "Solana-toiminnot",
+    "airdrop": "Airdrop Devnet SOL",
+    "reset_balances": "Nollaa paikalliset saldot",
+    "quick_links": "Pikalinkit",
+    "solana_explorer": "Solana Explorer",
+    "sui_explorer": "Sui Explorer",
+    "docs": "Ghost Protocol -dokumentaatio",
+    "theme_inspector": "Teeman tarkastin",
+    "active_theme": "Aktiivinen teema"
+  },
+  "notifications": {
+    "title": "Hälytykset ja tiedot",
+    "empty_title": "Olet ajan tasalla",
+    "empty_body": "Sinulla ei ole uusia ilmoituksia."
+  },
+  "scan": {
+    "title": "Skannaa ja maksa",
+    "prompt": "Aseta QR-koodi kehyksen sisään"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Skannaa QR-koodi dAppista yhdistääksesi lompakkosi.",
+    "uri_placeholder": "Syötä yhteys-URI",
+    "connect_button": "Yhdistä manuaalisesti"
+  },
+  "profile": {
+    "title": "Profiili",
+    "edit_title": "Muokkaa profiilia",
+    "display_name": "Näyttönimi",
+    "email": "Sähköpostiosoite",
+    "account_info": "Tilin tiedot",
+    "wallet_id": "Lompakon ID",
+    "total_balance": "Kokonais-saldo",
+    "save_button": "Tallenna muutokset"
+  }
+}

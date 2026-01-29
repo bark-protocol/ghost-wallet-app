@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "Die Zukunft der institutionellen Abwicklung im Einzelhandel.",
+    "create_button": "Sicheren Tresor erstellen",
+    "import_button": "Bestehende Wallet importieren"
+  },
+  "header": {
+    "home": "Portfolio",
+    "defi": "DeFi",
+    "transactions": "Verlauf",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "walletConnect": "WalletConnect",
+    "scan": "Zum Bezahlen scannen",
+    "notifications": "Alarme & Infos",
+    "developer": "Entwicklereinstellungen"
+  },
+  "nav": {
+    "home": "Start",
+    "defi": "DeFi",
+    "history": "Verlauf",
+    "settings": "Einst."
+  },
+  "home": {
+    "total_liquidity": "Gesamtliquidität",
+    "status": "Mainnet Aktiv",
+    "holdings": "Bestände"
+  },
+  "defi": {
+    "swap": "Tausch",
+    "bridge": "Brücke",
+    "you_pay": "Sie zahlen",
+    "you_receive": "Sie erhalten",
+    "get_quote": "Angebot einholen",
+    "execute_swap": "Tausch ausführen",
+    "insufficient_balance": "Unzureichendes {{token}}-Guthaben.",
+    "enter_amount": "Bitte geben Sie einen Betrag ein.",
+    "error_fetching_quote": "Fehler beim Abrufen des Angebots."
+  },
+  "bridge": {
+    "from": "Von",
+    "to": "Nach",
+    "balance": "Guthaben: {{balance}}",
+    "bridge_assets": "Vermögen überbrücken",
+    "rate": "Kurs",
+    "fee": "Gebühr",
+    "burned": "Verbrannt",
+    "security": "Sicherheit",
+    "light_client": "ZK Light Client",
+    "processing_title": "Überbrückung läuft...",
+    "processing_body": "Bestätige Transaktion über die Chains hinweg.",
+    "success_title": "Überbrückung erfolgreich!",
+    "success_body": "Vermögenswerte wurden in Ihre Wallet übertragen.",
+    "error_amount": "Bitte geben Sie einen gültigen Betrag ein.",
+    "error_insufficient_balance": "Unzureichendes {{token}}-Guthaben.",
+    "error_insufficient_ops": "Unzureichendes OPS-Guthaben für Brückengebühr."
+  },
+  "transactions": {
+    "no_transactions_title": "Noch keine Transaktionen",
+    "no_transactions_body": "Ihr Transaktionsverlauf wird hier angezeigt.",
+    "sent": "Gesendet",
+    "received": "Erhalten",
+    "swaps": "Täusche",
+    "transfers": "Überweisungen"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Erscheinungsbild",
+    "language": "Sprache",
+    "general": "Allgemein",
+    "profile": "Profil",
+    "security": "Sicherheit",
+    "notifications": "Benachrichtigungen",
+    "connections": "Verbindungen",
+    "walletConnect": "WalletConnect",
+    "developer": "Entwickler",
+    "developer_settings": "Entwicklereinstellungen",
+    "logout": "Abmelden"
+  },
+  "developer": {
+    "title": "Entwicklereinstellungen",
+    "network_config": "Netzwerkkonfiguration",
+    "solana_actions": "Solana-Aktionen",
+    "airdrop": "Airdrop Devnet SOL",
+    "reset_balances": "Lokale Salden zurücksetzen",
+    "quick_links": "Schnell-Links",
+    "solana_explorer": "Solana Explorer",
+    "sui_explorer": "Sui Explorer",
+    "docs": "Ghost Protocol Doku",
+    "theme_inspector": "Theme-Inspektor",
+    "active_theme": "Aktives Theme"
+  },
+  "notifications": {
+    "title": "Alarme & Infos",
+    "empty_title": "Alles auf dem neuesten Stand",
+    "empty_body": "Sie haben keine neuen Benachrichtigungen."
+  },
+  "scan": {
+    "title": "Zum Bezahlen scannen",
+    "prompt": "Positionieren Sie den QR-Code im Rahmen"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Scannen Sie den QR-Code von einer dApp, um Ihre Wallet zu verbinden.",
+    "uri_placeholder": "Verbindungs-URI eingeben",
+    "connect_button": "Manuell verbinden"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit_title": "Profil bearbeiten",
+    "display_name": "Anzeigename",
+    "email": "E-Mail-Adresse",
+    "account_info": "Kontoinformationen",
+    "wallet_id": "Wallet-ID",
+    "total_balance": "Gesamtguthaben",
+    "save_button": "Änderungen speichern"
+  }
+}

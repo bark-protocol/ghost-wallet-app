@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "Будущее розничных расчетов институционального уровня.",
+    "create_button": "Создать безопасное хранилище",
+    "import_button": "Импортировать существующий кошелек"
+  },
+  "header": {
+    "home": "Портфель",
+    "defi": "DeFi",
+    "transactions": "История",
+    "settings": "Настройки",
+    "profile": "Профиль",
+    "walletConnect": "WalletConnect",
+    "scan": "Сканировать для оплаты",
+    "notifications": "Оповещения и инфо",
+    "developer": "Настройки разработчика"
+  },
+  "nav": {
+    "home": "Главная",
+    "defi": "DeFi",
+    "history": "История",
+    "settings": "Настройки"
+  },
+  "home": {
+    "total_liquidity": "Общая ликвидность",
+    "status": "Mainnet активен",
+    "holdings": "Активы"
+  },
+  "defi": {
+    "swap": "Обмен",
+    "bridge": "Мост",
+    "you_pay": "Вы платите",
+    "you_receive": "Вы получаете",
+    "get_quote": "Получить курс",
+    "execute_swap": "Выполнить обмен",
+    "insufficient_balance": "Недостаточно средств на балансе {{token}}.",
+    "enter_amount": "Пожалуйста, введите сумму.",
+    "error_fetching_quote": "Ошибка при получении курса."
+  },
+  "bridge": {
+    "from": "Из",
+    "to": "В",
+    "balance": "Баланс: {{balance}}",
+    "bridge_assets": "Перевести активы",
+    "rate": "Курс",
+    "fee": "Комиссия",
+    "burned": "Сожжено",
+    "security": "Безопасность",
+    "light_client": "ZK Light Client",
+    "processing_title": "Выполняется перевод...",
+    "processing_body": "Подтверждение транзакции между сетями.",
+    "success_title": "Перевод успешен!",
+    "success_body": "Активы были переведены на ваш кошелек.",
+    "error_amount": "Пожалуйста, введите действительную сумму.",
+    "error_insufficient_balance": "Недостаточно средств на балансе {{token}}.",
+    "error_insufficient_ops": "Недостаточно OPS на балансе для комиссии моста."
+  },
+  "transactions": {
+    "no_transactions_title": "Транзакций пока нет",
+    "no_transactions_body": "Ваша история транзакций будет отображаться здесь.",
+    "sent": "Отправлено",
+    "received": "Получено",
+    "swaps": "Обмены",
+    "transfers": "Переводы"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Внешний вид",
+    "language": "Язык",
+    "general": "Общие",
+    "profile": "Профиль",
+    "security": "Безопасность",
+    "notifications": "Уведомления",
+    "connections": "Подключения",
+    "walletConnect": "WalletConnect",
+    "developer": "Разработчик",
+    "developer_settings": "Настройки разработчика",
+    "logout": "Выйти"
+  },
+  "developer": {
+    "title": "Настройки разработчика",
+    "network_config": "Конфигурация сети",
+    "solana_actions": "Действия Solana",
+    "airdrop": "Airdrop Devnet SOL",
+    "reset_balances": "Сбросить локальные балансы",
+    "quick_links": "Быстрые ссылки",
+    "solana_explorer": "Обозреватель Solana",
+    "sui_explorer": "Обозреватель Sui",
+    "docs": "Документация Ghost Protocol",
+    "theme_inspector": "Инспектор тем",
+    "active_theme": "Активная тема"
+  },
+  "notifications": {
+    "title": "Оповещения и инфо",
+    "empty_title": "Все в порядке",
+    "empty_body": "У вас нет новых уведомлений."
+  },
+  "scan": {
+    "title": "Сканировать для оплаты",
+    "prompt": "Поместите QR-код в рамку"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Отсканируйте QR-код из dApp, чтобы подключить кошелек.",
+    "uri_placeholder": "Введите URI для подключения",
+    "connect_button": "Подключить вручную"
+  },
+  "profile": {
+    "title": "Профиль",
+    "edit_title": "Редактировать профиль",
+    "display_name": "Отображаемое имя",
+    "email": "Адрес электронной почты",
+    "account_info": "Информация о счете",
+    "wallet_id": "ID кошелька",
+    "total_balance": "Общий баланс",
+    "save_button": "Сохранить изменения"
+  }
+}

@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "Framtiden för institutionell detaljhandelsavveckling.",
+    "create_button": "Skapa säker valv",
+    "import_button": "Importera befintlig plånbok"
+  },
+  "header": {
+    "home": "Portfölj",
+    "defi": "DeFi",
+    "transactions": "Historik",
+    "settings": "Inställningar",
+    "profile": "Profil",
+    "walletConnect": "WalletConnect",
+    "scan": "Skanna för att betala",
+    "notifications": "Larm & Info",
+    "developer": "Utvecklarinställningar"
+  },
+  "nav": {
+    "home": "Hem",
+    "defi": "DeFi",
+    "history": "Historik",
+    "settings": "Inställn."
+  },
+  "home": {
+    "total_liquidity": "Total Likviditet",
+    "status": "Mainnet Aktiv",
+    "holdings": "Innehav"
+  },
+  "defi": {
+    "swap": "Byt",
+    "bridge": "Bro",
+    "you_pay": "Du betalar",
+    "you_receive": "Du får",
+    "get_quote": "Hämta pris",
+    "execute_swap": "Genomför byte",
+    "insufficient_balance": "Otillräckligt saldo för {{token}}.",
+    "enter_amount": "Ange ett belopp.",
+    "error_fetching_quote": "Fel vid hämtning av pris."
+  },
+  "bridge": {
+    "from": "Från",
+    "to": "Till",
+    "balance": "Saldo: {{balance}}",
+    "bridge_assets": "Överför Tillgångar",
+    "rate": "Växelkurs",
+    "fee": "Avgift",
+    "burned": "Bränd",
+    "security": "Säkerhet",
+    "light_client": "ZK Lättklient",
+    "processing_title": "Överföring pågår...",
+    "processing_body": "Bekräftar transaktion över kedjor.",
+    "success_title": "Överföring lyckades!",
+    "success_body": "Tillgångar har överförts till din plånbok.",
+    "error_amount": "Ange ett giltigt belopp.",
+    "error_insufficient_balance": "Otillräckligt saldo för {{token}}.",
+    "error_insufficient_ops": "Otillräckligt OPS-saldo för broavgift."
+  },
+  "transactions": {
+    "no_transactions_title": "Inga transaktioner än",
+    "no_transactions_body": "Din transaktionshistorik kommer att visas här.",
+    "sent": "Skickat",
+    "received": "Mottaget",
+    "swaps": "Byten",
+    "transfers": "Överföringar"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Utseende",
+    "language": "Språk",
+    "general": "Allmänt",
+    "profile": "Profil",
+    "security": "Säkerhet",
+    "notifications": "Notiser",
+    "connections": "Anslutningar",
+    "walletConnect": "WalletConnect",
+    "developer": "Utvecklare",
+    "developer_settings": "Utvecklarinställningar",
+    "logout": "Logga ut"
+  },
+  "developer": {
+    "title": "Utvecklarinställningar",
+    "network_config": "Nätverkskonfiguration",
+    "solana_actions": "Solana-åtgärder",
+    "airdrop": "Airdrop Devnet SOL",
+    "reset_balances": "Återställ lokala saldon",
+    "quick_links": "Snabblänkar",
+    "solana_explorer": "Solana Explorer",
+    "sui_explorer": "Sui Explorer",
+    "docs": "Ghost Protocol Docs",
+    "theme_inspector": "Temainspektör",
+    "active_theme": "Aktivt tema"
+  },
+  "notifications": {
+    "title": "Larm & Info",
+    "empty_title": "Du är uppdaterad",
+    "empty_body": "Du har inga nya notiser."
+  },
+  "scan": {
+    "title": "Skanna för att betala",
+    "prompt": "Placera QR-koden inom ramen"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Skanna QR-koden från en dApp för att ansluta din plånbok.",
+    "uri_placeholder": "Ange anslutnings-URI",
+    "connect_button": "Anslut manuellt"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit_title": "Redigera profil",
+    "display_name": "Visningsnamn",
+    "email": "E-postadress",
+    "account_info": "Kontoinformation",
+    "wallet_id": "Plånboks-ID",
+    "total_balance": "Totalt saldo",
+    "save_button": "Spara ändringar"
+  }
+}

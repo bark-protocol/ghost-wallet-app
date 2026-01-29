@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "L'avenir du règlement de détail de qualité institutionnelle.",
+    "create_button": "Créer un coffre-fort sécurisé",
+    "import_button": "Importer un portefeuille existant"
+  },
+  "header": {
+    "home": "Portefeuille",
+    "defi": "DeFi",
+    "transactions": "Historique",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "walletConnect": "WalletConnect",
+    "scan": "Scanner pour Payer",
+    "notifications": "Alarmes & Infos",
+    "developer": "Paramètres Développeur"
+  },
+  "nav": {
+    "home": "Accueil",
+    "defi": "DeFi",
+    "history": "Historique",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "total_liquidity": "Liquidité Totale",
+    "status": "Mainnet Actif",
+    "holdings": "Avoirs"
+  },
+  "defi": {
+    "swap": "Échange",
+    "bridge": "Pont",
+    "you_pay": "Vous payez",
+    "you_receive": "Vous recevez",
+    "get_quote": "Obtenir un devis",
+    "execute_swap": "Exécuter l'échange",
+    "insufficient_balance": "Solde de {{token}} insuffisant.",
+    "enter_amount": "Veuillez saisir un montant.",
+    "error_fetching_quote": "Erreur lors de la récupération du devis."
+  },
+  "bridge": {
+    "from": "De",
+    "to": "À",
+    "balance": "Solde : {{balance}}",
+    "bridge_assets": "Transférer les Actifs",
+    "rate": "Taux",
+    "fee": "Frais",
+    "burned": "Brûlés",
+    "security": "Sécurité",
+    "light_client": "Client Léger ZK",
+    "processing_title": "Transfert en Cours...",
+    "processing_body": "Confirmation de la transaction entre les chaînes.",
+    "success_title": "Transfert Réussi !",
+    "success_body": "Les actifs ont été transférés dans votre portefeuille.",
+    "error_amount": "Veuillez saisir un montant valide.",
+    "error_insufficient_balance": "Solde de {{token}} insuffisant.",
+    "error_insufficient_ops": "Solde OPS insuffisant pour les frais de pont."
+  },
+  "transactions": {
+    "no_transactions_title": "Aucune Transaction",
+    "no_transactions_body": "Votre historique de transactions apparaîtra ici.",
+    "sent": "Envoyé",
+    "received": "Reçu",
+    "swaps": "Échanges",
+    "transfers": "Transferts"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Apparence",
+    "language": "Langue",
+    "general": "Général",
+    "profile": "Profil",
+    "security": "Sécurité",
+    "notifications": "Notifications",
+    "connections": "Connexions",
+    "walletConnect": "WalletConnect",
+    "developer": "Développeur",
+    "developer_settings": "Paramètres Développeur",
+    "logout": "Déconnexion"
+  },
+  "developer": {
+    "title": "Paramètres Développeur",
+    "network_config": "Configuration Réseau",
+    "solana_actions": "Actions Solana",
+    "airdrop": "Airdrop SOL Devnet",
+    "reset_balances": "Réinitialiser les Soldes Locaux",
+    "quick_links": "Liens Rapides",
+    "solana_explorer": "Explorateur Solana",
+    "sui_explorer": "Explorateur Sui",
+    "docs": "Docs Ghost Protocol",
+    "theme_inspector": "Inspecteur de Thème",
+    "active_theme": "Thème Actif"
+  },
+  "notifications": {
+    "title": "Alarmes & Infos",
+    "empty_title": "Tout est à jour",
+    "empty_body": "Vous n'avez aucune nouvelle notification."
+  },
+  "scan": {
+    "title": "Scanner pour Payer",
+    "prompt": "Positionnez le code QR dans le cadre"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Scannez le code QR d'une dApp pour connecter votre portefeuille.",
+    "uri_placeholder": "Saisir l'URI de connexion",
+    "connect_button": "Connecter Manuellement"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit_title": "Modifier le profil",
+    "display_name": "Nom d'affichage",
+    "email": "Adresse e-mail",
+    "account_info": "Infos du compte",
+    "wallet_id": "ID du portefeuille",
+    "total_balance": "Solde total",
+    "save_button": "Enregistrer les modifications"
+  }
+}

@@ -1,0 +1,122 @@
+
+{
+  "onboarding": {
+    "title_1": "GHOST",
+    "title_2": "WALLET",
+    "subtitle": "Institutsionaalse taseme jaemaksete tulevik.",
+    "create_button": "Loo turvaline varakamber",
+    "import_button": "Impordi olemasolev rahakott"
+  },
+  "header": {
+    "home": "Portfell",
+    "defi": "DeFi",
+    "transactions": "Ajalugu",
+    "settings": "Seaded",
+    "profile": "Profiil",
+    "walletConnect": "WalletConnect",
+    "scan": "Skanni maksmiseks",
+    "notifications": "Alarmid ja info",
+    "developer": "Arendaja seaded"
+  },
+  "nav": {
+    "home": "Kodu",
+    "defi": "DeFi",
+    "history": "Ajalugu",
+    "settings": "Seaded"
+  },
+  "home": {
+    "total_liquidity": "Kogu likviidsus",
+    "status": "Põhivõrk aktiivne",
+    "holdings": "Valdused"
+  },
+  "defi": {
+    "swap": "Vaheta",
+    "bridge": "Sild",
+    "you_pay": "Sina maksad",
+    "you_receive": "Sina saad",
+    "get_quote": "Hangi pakkumine",
+    "execute_swap": "Teosta vahetus",
+    "insufficient_balance": "Ebapiisav {{token}} saldo.",
+    "enter_amount": "Palun sisesta summa.",
+    "error_fetching_quote": "Pakkumise hankimisel ilmnes viga."
+  },
+  "bridge": {
+    "from": "Kust",
+    "to": "Kuhu",
+    "balance": "Saldo: {{balance}}",
+    "bridge_assets": "Silluta varad",
+    "rate": "Kurss",
+    "fee": "Tasu",
+    "burned": "Põletatud",
+    "security": "Turvalisus",
+    "light_client": "ZK kerge klient",
+    "processing_title": "Sildamine on pooleli...",
+    "processing_body": "Tehingu kinnitamine ahelate vahel.",
+    "success_title": "Sildamine õnnestus!",
+    "success_body": "Varad on teie rahakotti üle kantud.",
+    "error_amount": "Palun sisestage kehtiv summa.",
+    "error_insufficient_balance": "Ebapiisav {{token}} saldo.",
+    "error_insufficient_ops": "Ebapiisav OPS saldo silla tasu jaoks."
+  },
+  "transactions": {
+    "no_transactions_title": "Tehinguid veel pole",
+    "no_transactions_body": "Sinu tehingute ajalugu ilmub siia.",
+    "sent": "Saadetud",
+    "received": "Vastu võetud",
+    "swaps": "Vahetused",
+    "transfers": "Ülekanded"
+  },
+  "settings": {
+    "display_name": "Jane Doe",
+    "address": "0x12...aBcd",
+    "appearance": "Välimus",
+    "language": "Keel",
+    "general": "Üldine",
+    "profile": "Profiil",
+    "security": "Turvalisus",
+    "notifications": "Märguanded",
+    "connections": "Ühendused",
+    "walletConnect": "WalletConnect",
+    "developer": "Arendaja",
+    "developer_settings": "Arendaja seaded",
+    "logout": "Logi välja"
+  },
+  "developer": {
+    "title": "Arendaja seaded",
+    "network_config": "Võrgu seadistus",
+    "solana_actions": "Solana toimingud",
+    "airdrop": "Airdrop Devnet SOL",
+    "reset_balances": "Lähtesta kohalikud saldod",
+    "quick_links": "Kiirlingid",
+    "solana_explorer": "Solana Explorer",
+    "sui_explorer": "Sui Explorer",
+    "docs": "Ghost Protocol dokumendid",
+    "theme_inspector": "Teema inspektor",
+    "active_theme": "Aktiivne teema"
+  },
+  "notifications": {
+    "title": "Alarmid ja info",
+    "empty_title": "Kõik on ajakohane",
+    "empty_body": "Sul pole uusi teateid."
+  },
+  "scan": {
+    "title": "Skanni maksmiseks",
+    "prompt": "Paigutage QR-kood raami sisse"
+  },
+  "walletConnect": {
+    "title": "WalletConnect",
+    "prompt": "Skannige dAppist QR-kood, et oma rahakott ühendada.",
+    "uri_placeholder": "Sisestage ühenduse URI",
+    "connect_button": "Ühenda käsitsi"
+  },
+  "profile": {
+    "title": "Profiil",
+    "edit_title": "Muuda profiili",
+    "display_name": "Kuvatav nimi",
+    "email": "E-posti aadress",
+    "account_info": "Konto teave",
+    "wallet_id": "Rahakoti ID",
+    "total_balance": "Kogu saldo",
+    "save_button": "Salvesta muudatused"
+  }
+}
