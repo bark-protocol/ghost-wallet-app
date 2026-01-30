@@ -4,7 +4,7 @@ import { Bitcoin, Coins, Diamond, Droplet, Sparkles } from "lucide-react-native"
 
 import Colors from "@/constants/colors";
 
-export type TokenId = "GHOST" | "SOL" | "USDC" | "BTC" | "ETH";
+export type TokenId = "GHOST" | "SOL" | "USDC" | "BTC" | "ETH" | "SUI";
 
 const BG = Colors.ghost;
 
@@ -20,6 +20,7 @@ export const ASSETS: Record<
 > = {
   GHOST: { name: "Ghost", ticker: "GHOST", icon: <Sparkles {...iconProps} /> },
   SOL: { name: "Solana", ticker: "SOL", icon: <Droplet {...iconProps} /> },
+  SUI: { name: "Sui Network", ticker: "ETH", icon: <Diamond {...iconProps} /> },
   USDC: { name: "USD Coin", ticker: "USDC", icon: <Coins {...iconProps} /> },
   BTC: { name: "Bitcoin", ticker: "BTC", icon: <Bitcoin {...iconProps} /> },
   ETH: { name: "Ethereum", ticker: "ETH", icon: <Diamond {...iconProps} /> },
