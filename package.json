@@ -59,7 +59,7 @@
     "react-native-web": "^0.21.0",
 
     "react-native-device-info": "^10.13.2",
-    "react-native-jail-monkey": "^2.8.3",
+    "react-native-jail-monkey": "^2.8.4",
 
     "zustand": "^5.0.10"
   },
@@ -81,3 +81,4 @@
     "detox": "^20.15.0"
   }
 }
+
