@@ -1,0 +1,23 @@
+{
+  "name": "mobile-wallet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ghost Wallet - Solana Mobile Wallet",
+  "main": "src/App.tsx",
+  "scripts": {
+    "dev": "echo 'Mobile wallet is React Native - run from mobile environment'",
+    "build": "tsc --noEmit",
+    "lint": "eslint src --ext .ts,.tsx",
+    "clean": "rm -rf dist node_modules"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.8",
+    "react": "^18.3.1",
+    "react-native": "^0.76.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-native": "^0.76.0",
+    "typescript": "^5.7.3"
+  }
+}
